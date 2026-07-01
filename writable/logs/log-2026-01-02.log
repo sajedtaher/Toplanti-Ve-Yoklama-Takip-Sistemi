@@ -1,0 +1,746 @@
+DEBUG - 2026-01-02 11:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 11:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:47:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:47:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:48:04 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:48:05 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:48:17 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 12:48:19 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 12:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 12:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:06:13 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:06:13 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:06:18 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:06:18 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:06:19 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:24:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:24:37 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 13:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:24:42 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 13:24:43 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 14:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 14:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:10:06 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:10:07 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:10:08 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 14:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:42:10 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:42:11 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 14:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:42:15 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 14:42:16 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 14:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:54 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:55 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:55 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:56 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:57 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:58 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:58 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:36:59 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:04 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:31 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:31 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:35 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:37:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:26 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:26 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:27 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:31 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:31 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:32 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:34 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:35 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:35 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:35 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:37 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:37 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:43:38 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:29 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:30 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:45 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:46 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:49:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:50:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:50:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:50:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:50:04 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:51:23 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:51:25 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:51:26 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:10 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:11 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:12 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:12 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:14 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:26 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:29 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 15:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:41 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:46 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 15:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 15:55:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:27 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:28 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:32 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:42 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:45 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:01:58 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:35 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:02:36 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:09 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:10 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:12 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:13 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:14 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:16 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:17 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:20 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:54 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:54 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:55 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:08:55 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:09:18 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:09:38 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:09:39 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:09:39 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:41 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:42 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:56 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:44:58 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:05 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:06 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:07 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:07 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:11 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:11 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:22 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:22 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:23 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:23 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:24 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:25 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:25 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:25 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:25 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:45:59 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:04 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:06 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:32 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:37 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:38 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:40 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:51 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:54 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:46:55 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:03 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:04 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:38 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:39 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:40 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:41 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:42 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:49 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:50 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:51 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:58 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:47:59 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:48:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:48:00 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:48:01 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:48:02 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:50:52 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 16:50:59 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 16:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 16:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:18 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:20 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:31 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:32 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:33 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:51 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:53 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:15:54 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:16:45 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:16:46 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:16:47 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:16:48 --> updateParticipantStatus HIT
+DEBUG - 2026-01-02 17:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:41 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:41 --> MP DB OK: {"meeting_id":"82","user_id":"57","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:42 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:42 --> MP DB OK: {"meeting_id":"82","user_id":"72","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:43 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:43 --> MP DB OK: {"meeting_id":"82","user_id":"73","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 17:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:45 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:45 --> MP DB OK: {"meeting_id":"82","user_id":"56","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:53 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:53 --> MP DB OK: {"meeting_id":"82","user_id":"57","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:28:54 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:28:54 --> MP DB OK: {"meeting_id":"82","user_id":"72","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 17:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:29:35 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:29:35 --> MP DB OK: {"meeting_id":"81","user_id":"35","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:29:36 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:29:36 --> MP DB OK: {"meeting_id":"81","user_id":"51","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 17:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:29:38 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:29:38 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:30:09 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:30:09 --> MP DB OK: {"meeting_id":"81","user_id":"63","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:30:09 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:30:09 --> MP DB OK: {"meeting_id":"81","user_id":"64","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:30:10 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:30:10 --> MP DB OK: {"meeting_id":"81","user_id":"53","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:30:11 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:30:11 --> MP DB OK: {"meeting_id":"81","user_id":"3","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:30:12 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:30:12 --> MP DB OK: {"meeting_id":"81","user_id":"46","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:31:10 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:31:10 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:31:11 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:31:11 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:00 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:00 --> MP DB OK: {"meeting_id":"81","user_id":"35","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:01 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:01 --> MP DB OK: {"meeting_id":"81","user_id":"35","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:02 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:02 --> MP DB OK: {"meeting_id":"81","user_id":"35","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:03 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:03 --> MP DB OK: {"meeting_id":"81","user_id":"35","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 17:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:21 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:21 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:31 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:31 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:46 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:46 --> MP DB OK: {"meeting_id":"81","user_id":"53","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:32:58 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:32:58 --> MP DB OK: {"meeting_id":"81","user_id":"62","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:34:06 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:34:06 --> MP DB OK: {"meeting_id":"83","user_id":"65","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:34:07 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:34:07 --> MP DB OK: {"meeting_id":"83","user_id":"67","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 17:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:34:08 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:34:09 --> MP DB OK: {"meeting_id":"83","user_id":"68","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:34:13 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:34:13 --> MP DB OK: {"meeting_id":"83","user_id":"68","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:34:15 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:34:15 --> MP DB OK: {"meeting_id":"83","user_id":"69","status":"izinli","present":0}
+DEBUG - 2026-01-02 17:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 17:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:36:19 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:36:19 --> MP DB OK: {"meeting_id":"83","user_id":"66","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 17:36:20 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 17:36:20 --> MP DB OK: {"meeting_id":"83","user_id":"68","status":"geldi","present":1}
+DEBUG - 2026-01-02 17:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:26 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:26 --> MP DB OK: {"meeting_id":"84","user_id":"35","status":"izinli","present":0}
+DEBUG - 2026-01-02 18:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:28 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:28 --> MP DB OK: {"meeting_id":"84","user_id":"35","status":"geldi","present":1}
+DEBUG - 2026-01-02 18:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:30 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:30 --> MP DB OK: {"meeting_id":"84","user_id":"3","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 18:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:33 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:33 --> MP DB OK: {"meeting_id":"84","user_id":"46","status":"izinli","present":0}
+DEBUG - 2026-01-02 18:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:35 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:35 --> MP DB OK: {"meeting_id":"84","user_id":"53","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 18:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:03:36 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:03:36 --> MP DB OK: {"meeting_id":"84","user_id":"63","status":"izinli","present":0}
+DEBUG - 2026-01-02 18:04:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:04:36 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:04:36 --> MP DB OK: {"meeting_id":"84","user_id":"51","status":"geldi","present":1}
+DEBUG - 2026-01-02 18:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:04:38 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:04:38 --> MP DB OK: {"meeting_id":"84","user_id":"62","status":"geldi","present":1}
+DEBUG - 2026-01-02 18:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:04:39 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:04:39 --> MP DB OK: {"meeting_id":"84","user_id":"64","status":"geldi","present":1}
+DEBUG - 2026-01-02 18:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:38:01 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:38:01 --> MP DB OK: {"meeting_id":"85","user_id":"65","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 18:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:38:03 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:38:03 --> MP DB OK: {"meeting_id":"85","user_id":"67","status":"izinli","present":0}
+DEBUG - 2026-01-02 18:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:38:04 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:38:05 --> MP DB OK: {"meeting_id":"85","user_id":"69","status":"gelmedi","present":0}
+DEBUG - 2026-01-02 18:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-01-02 18:38:06 --> updateParticipantStatus HIT
+ERROR - 2026-01-02 18:38:06 --> MP DB OK: {"meeting_id":"85","user_id":"70","status":"izinli","present":0}
+DEBUG - 2026-01-02 18:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-01-02 18:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

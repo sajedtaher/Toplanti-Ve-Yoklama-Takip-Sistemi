@@ -1,0 +1,240 @@
+DEBUG - 2026-05-18 15:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-18 15:32:08 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-18 15:32:08 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-18 15:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-18 15:32:23 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: login]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-18 15:32:23 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: login]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-18 15:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-18 15:32:27 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: login]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-18 15:32:27 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: login]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-18 15:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-18 15:38:07 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-18 15:38:07 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-18 15:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-18 15:38:20 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: login]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-18 15:38:20 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: login]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

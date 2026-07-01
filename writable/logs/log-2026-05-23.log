@@ -1,0 +1,469 @@
+DEBUG - 2026-05-23 09:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-23 09:17:35 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-23 09:17:35 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-23 09:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-23 09:17:41 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-23 09:17:41 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-23 10:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-23 10:01:38 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-23 10:01:38 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-23 10:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-05-23 10:01:48 --> ErrorException: Undefined property: Config\Paths::$viewDirectory
+[Method: GET, Route: /]
+in SYSTEMPATH\Config\Services.php on line 506.
+ 1 SYSTEMPATH\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\Paths::$viewDirectory', 'C:\\xampp\\htdocs\\ci4_meetings_clean\\vendor\\codeigniter4\\framework\\system\\Config\\Services.php', 506)
+ 2 SYSTEMPATH\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(null, null, false)
+ 3 SYSTEMPATH\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', [...])
+ 4 SYSTEMPATH\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', null, null)
+ 5 SYSTEMPATH\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+ 6 SYSTEMPATH\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', [])
+ 7 SYSTEMPATH\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+ 8 SYSTEMPATH\Common.php(1157): service('renderer')
+ 9 APPPATH\Controllers\AuthController.php(11): view('auth/login')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-23 10:01:48 --> ErrorException: Uncaught ErrorException: Undefined property: Config\Paths::$viewDirectory in C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php:100
+Stack trace:
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\ExceptionHandler.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Debug\Exceptions.php(162): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined property: Config\Paths::$viewDirectory
+#0 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(506): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 506)
+#1 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(312): CodeIgniter\Config\Services::renderer(NULL, NULL, false)
+#2 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#3 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\Services.php(503): CodeIgniter\Config\BaseService::getSharedInstance('renderer', NULL, NULL)
+#4 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(321): CodeIgniter\Config\Services::renderer()
+#5 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Config\BaseService.php(202): CodeIgniter\Config\BaseService::__callStatic('renderer', Array)
+#6 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(995): CodeIgniter\Config\BaseService::get('renderer')
+#7 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Common.php(1157): service('renderer')
+#8 C:\xampp\htdocs\ci4_meetings_clean\app\Controllers\AuthController.php(11): view('auth/login')
+#9 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\AuthController->login()
+#10 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthController))
+#11 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ci4_meetings_clean\vendor\codeigniter4\framework\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ci4_meetings_clean\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\ExceptionHandler.php on line 100.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+DEBUG - 2026-05-23 10:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 10:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 13:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:04:22 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:04:22 --> MP DB OK: {"meeting_id":"82","user_id":"56","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:04:23 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:04:23 --> MP DB OK: {"meeting_id":"82","user_id":"72","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:04:24 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:04:24 --> MP DB OK: {"meeting_id":"82","user_id":"73","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:10:03 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:10:03 --> MP DB OK: {"meeting_id":"90","user_id":"46","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:10:11 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:10:11 --> MP DB OK: {"meeting_id":"90","user_id":"51","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:10:12 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:10:12 --> MP DB OK: {"meeting_id":"90","user_id":"63","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:10:13 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:10:13 --> MP DB OK: {"meeting_id":"90","user_id":"64","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:11:01 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:11:01 --> MP DB OK: {"meeting_id":"89","user_id":"64","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:11:46 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:11:46 --> MP DB OK: {"meeting_id":"89","user_id":"64","status":"izinli","present":0}
+DEBUG - 2026-05-23 14:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:11:57 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:11:57 --> MP DB OK: {"meeting_id":"90","user_id":"35","status":"gelmedi","present":0}
+DEBUG - 2026-05-23 14:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:00 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:00 --> MP DB OK: {"meeting_id":"90","user_id":"51","status":"izinli","present":0}
+DEBUG - 2026-05-23 14:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:01 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:01 --> MP DB OK: {"meeting_id":"90","user_id":"62","status":"gelmedi","present":0}
+DEBUG - 2026-05-23 14:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:04 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:04 --> MP DB OK: {"meeting_id":"90","user_id":"64","status":"izinli","present":0}
+DEBUG - 2026-05-23 14:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:07 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:07 --> MP DB OK: {"meeting_id":"90","user_id":"35","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:08 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:08 --> MP DB OK: {"meeting_id":"90","user_id":"51","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:08 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:08 --> MP DB OK: {"meeting_id":"90","user_id":"62","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 14:12:09 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 14:12:09 --> MP DB OK: {"meeting_id":"90","user_id":"64","status":"geldi","present":1}
+DEBUG - 2026-05-23 14:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 14:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 15:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 15:49:22 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 15:49:23 --> MP DB OK: {"meeting_id":"90","user_id":"35","status":"izinli","present":0}
+DEBUG - 2026-05-23 15:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-05-23 15:49:23 --> updateParticipantStatus HIT
+ERROR - 2026-05-23 15:49:23 --> MP DB OK: {"meeting_id":"90","user_id":"46","status":"gelmedi","present":0}
+DEBUG - 2026-05-23 15:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-05-23 16:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
